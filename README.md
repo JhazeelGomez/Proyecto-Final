@@ -13,6 +13,22 @@ El objetivo es optimizar la eficiencia operativa y mejorar la experiencia del cl
 Los datasets contienen información sobre el uso del servicio de telefonía virtual CallMeMaybe. El análisis de estos datos permitirá a los supervisores tomar decisiones informadas, optimizar el rendimiento del equipo y mejorar la calidad del servicio ofrecido.
 
 
+ ### Conclusiones 
+
+Una vez realizado el análisis para poder identificar los operadores ineficaces en el servicio de telefonia CallMeMaybe se concluye lo siguiente: 
+
+Se detectaron ciertos operadores con un desempeño deficiente. Los operadores menos eficaces mostraron una cantidad significativamente mayor de llamadas no atendidas. 
+
+tiempos de espera prolongados, los operadores ineficaces están asociados con una mayor insatisfacción del cliente, debido a tiempos de espera prolongados y menor capacidad de resolución en llamadas entrantes. 
+
+Se realizo una distribución por clústeres para poder segmentar los operadores de acuerdo a su desempeño. Las diferencias observadas entre los operadores eficaces e ineficaces son significativas. 
+
+### Recomendaciones
+
+Como analista de datos requerimos contar con mayor información. Por ejemplo, el horario de las llamadas; esto nos permitirá obtener las horas pico donde los usuarios realizan más llamadas y de esta manera obtener métricas que generen más valor para la toma de decisiones. 
+
+Notificaciones proactivas: Implementar un sistema de notificaciones para detectar problemas de eficiencia de forma temprana, que genere un reporte sobre el desempeño de los operadores. 
+
 ### Tableros
 
 Gráficos 1 
