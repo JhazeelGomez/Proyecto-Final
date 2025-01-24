@@ -13,7 +13,7 @@ El objetivo es optimizar la eficiencia operativa y mejorar la experiencia del cl
 Los datasets contienen información sobre el uso del servicio de telefonía virtual CallMeMaybe. El análisis de estos datos permitirá a los supervisores tomar decisiones informadas, optimizar el rendimiento del equipo y mejorar la calidad del servicio ofrecido.
 
 
-### Dashboard
+### Tableros
 
 Gráficos 1 
 
