@@ -22,3 +22,8 @@ https://public.tableau.com/app/profile/jhazeel.gomez/viz/Sprint14-Dashboard/Dash
 Gráficos 2
 
 https://public.tableau.com/app/profile/jhazeel.gomez/viz/Sprint14-ProyectoFinal/Dashboard2?publish=yes
+
+
+### Presentación PDF 
+
+https://docs.google.com/presentation/d/1RsrDhxm5Xl5m6WRIDJ4JmwhrSQ_v6J5YVG6mP9wyu-U/edit?usp=sharing
