@@ -32,12 +32,11 @@ Notificaciones proactivas: Implementar un sistema de notificaciones para detecta
 ### Tableros
 
 Gráficos 1 
-
 https://public.tableau.com/app/profile/jhazeel.gomez/viz/Sprint14-Dashboard/Dashboard1?publish=yes
 
-Gráficos 2
 
-https://public.tableau.com/app/profile/jhazeel.gomez/viz/Sprint14-ProyectoFinal/Dashboard2?publish=yes
+Gráficos 2
+https://public.tableau.com/app/profile/jhazeel.gomez/viz/Sprint14-Dashboard/Dashboard2?publish=yes
 
 
 ### Presentación PDF 
